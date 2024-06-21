@@ -1,0 +1,72 @@
+SCENARIST ADDONS:
+Scena statica:
+In the quaint town of Eldoria, where the cobblestone streets wound through narrow alleyways, three characters found themselves entangled in a mysterious affair. Detective Hart, with her piercing gaze and a mind as sharp as a blade, scrutinized the crime scene. Beside her stood Professor Quinn, an eccentric archaeologist known for his knack in decoding ancient symbols. As they examined the cryptic symbols etched on the walls of the abandoned cathedral, a shadowy figure emerged from the darkness. It was Amelia Wren, a local journalist with a penchant for uncovering secrets. The trio, each driven by their unique expertise and motivations, embarked on a journey that would unravel the town's hidden history and test the limits of their alliances.
+
+SCENARIST ADDONS:
+Scena dinamica:
+(Professor Quinn): - Did you find anything, Detective Hart? inquired Professor Quinn, adjusting his glasses as he examined the ancient manuscript. 
+
+(Detective Hart): - Not yet, Professor Quinn. The symbols are cryptic, and I can't decipher their meaning, replied Detective Hart, furrowing her brow in concentration. 
+
+(Professor Quinn): - Perhaps they hold the key to Eldoria's enigmatic past, mused Professor Quinn, tracing the intricate patterns with his gloved finger. 
+
+(Amelia Wren): - Well, whatever it is, it's big news, chimed in Amelia Wren, the journalist, her camera clicking as she captured the scene. This town has more secrets than meets the eye. 
+
+Scena statica:
+In the quaint town of Eldoria, where the cobblestone streets wound through narrow alleyways, three characters found themselves entangled in a mysterious affair. Detective Hart, with her piercing gaze and a mind as sharp as a blade, scrutinized the crime scene. Beside her stood Professor Quinn, an eccentric archaeologist known for his knack in decoding ancient symbols. As they examined the cryptic symbols etched on the walls of the abandoned cathedral, a shadowy figure emerged from the darkness. It was Amelia Wren, a local journalist with a penchant for uncovering secrets. The trio, each driven by their unique expertise and motivations, embarked on a journey that would unravel the town's hidden history and test the limits of their alliances.
+
+REGIZOR ADDONS:
+gazon, rasarit, ploaie
+
+Scena dinamica:
+(Professor Quinn): - Did you find anything, Detective Hart? inquired Professor Quinn, adjusting his glasses as he examined the ancient manuscript. 
+
+(Detective Hart): - Not yet, Professor Quinn. The symbols are cryptic, and I can't decipher their meaning, replied Detective Hart, furrowing her brow in concentration. 
+
+(Professor Quinn): - Perhaps they hold the key to Eldoria's enigmatic past, mused Professor Quinn, tracing the intricate patterns with his gloved finger. 
+
+(Amelia Wren): - Well, whatever it is, it's big news, chimed in Amelia Wren, the journalist, her camera clicking as she captured the scene. This town has more secrets than meets the eye. 
+
+REGIZOR ADDONS:
+copaci, rasarit, ninsoare
+
+Scena statica:
+In the quaint town of Eldoria, where the cobblestone streets wound through narrow alleyways, three characters found themselves entangled in a mysterious affair. Detective Hart, with her piercing gaze and a mind as sharp as a blade, scrutinized the crime scene. Beside her stood Professor Quinn, an eccentric archaeologist known for his knack in decoding ancient symbols. As they examined the cryptic symbols etched on the walls of the abandoned cathedral, a shadowy figure emerged from the darkness. It was Amelia Wren, a local journalist with a penchant for uncovering secrets. The trio, each driven by their unique expertise and motivations, embarked on a journey that would unravel the town's hidden history and test the limits of their alliances.
+
+gazon, rasarit, ploaie
+
+PRODUCATOR ADDONS:
+tunet, fulger
+
+Scena dinamica:
+(Professor Quinn): - Did you find anything, Detective Hart? inquired Professor Quinn, adjusting his glasses as he examined the ancient manuscript. 
+
+(Detective Hart): - Not yet, Professor Quinn. The symbols are cryptic, and I can't decipher their meaning, replied Detective Hart, furrowing her brow in concentration. 
+
+(Professor Quinn): - Perhaps they hold the key to Eldoria's enigmatic past, mused Professor Quinn, tracing the intricate patterns with his gloved finger. 
+
+(Amelia Wren): - Well, whatever it is, it's big news, chimed in Amelia Wren, the journalist, her camera clicking as she captured the scene. This town has more secrets than meets the eye. 
+
+copaci, rasarit, ninsoare
+
+PRODUCATOR ADDONS:
+tunet, fulger
+
+Scena statica:
+In the quaint town of Eldoria, where the cobblestone streets wound through narrow alleyways, three characters found themselves entangled in a mysterious affair. Detective Hart, with her piercing gaze and a mind as sharp as a blade, scrutinized the crime scene. Beside her stood Professor Quinn, an eccentric archaeologist known for his knack in decoding ancient symbols. As they examined the cryptic symbols etched on the walls of the abandoned cathedral, a shadowy figure emerged from the darkness. It was Amelia Wren, a local journalist with a penchant for uncovering secrets. The trio, each driven by their unique expertise and motivations, embarked on a journey that would unravel the town's hidden history and test the limits of their alliances.
+
+gazon, rasarit, ploaie
+
+DIRECTOR ADDONS
+Scena dinamica:
+(Professor Quinn): - Did you find anything, Detective Hart? inquired Professor Quinn, adjusting his glasses as he examined the ancient manuscript. 
+
+(Detective Hart): - Not yet, Professor Quinn. The symbols are cryptic, and I can't decipher their meaning, replied Detective Hart, furrowing her brow in concentration. 
+
+(Professor Quinn): - Perhaps they hold the key to Eldoria's enigmatic past, mused Professor Quinn, tracing the intricate patterns with his gloved finger. 
+
+(Amelia Wren): - Well, whatever it is, it's big news, chimed in Amelia Wren, the journalist, her camera clicking as she captured the scene. This town has more secrets than meets the eye. 
+
+copaci, rasarit, ninsoare
+
+DIRECTOR ADDONS
